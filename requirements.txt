@@ -1,0 +1,11 @@
+langchain
+tiktoken
+chainlit
+openai
+langchain-core 
+langchain-community 
+langchain-openai 
+pymupdf 
+faiss_cpu
+ragas
+langchainhub
